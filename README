@@ -120,8 +120,7 @@ The final dashboard provides a visual summary of the analysis through:
 * Interactive filters/slicers
 
 Dashboard Preview
-
-C:\Users\BABITA\OneDrive\Pictures\Screenshots\Screenshot 2026-09-09 171333.png
+C:\Users\BABITA\OneDrive\Pictures\Screenshots\Dasboard.png
 
 🔄 How the Project Was Created
 
@@ -159,18 +158,6 @@ Combined the KPIs, charts, and interactive filters into a single Excel dashboard
 Step 7 – Insight Generation
 
 Analyzed the dashboard results to identify important trends and business insights.
-
-📁 Project Structure
-
-```text
-Business-Intelligence-Research-Dashboard/
-│
-├── Business_Intelligence_Research_Dashboard.xlsx
-├── README.md
-│
-└── screenshots/
-    └── dashboard.png
-```
 
 🚀 Skills Demonstrated
 
