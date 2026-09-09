@@ -1,0 +1,187 @@
+📊 Business Intelligence Research Dashboard – Excel
+
+ 📌 Project Overview
+
+The Business Intelligence Research Dashboard is an interactive Excel-based data analysis project that analyzes research studies related to workplace diversity, business impact, industries, countries/regions, and research focus areas.
+The project transforms a structured research dataset into meaningful insights using Excel data cleaning, PivotTables, charts, KPIs, and an interactive dashboard.
+The dashboard provides a consolidated view of the research landscape and helps users understand trends across industries, regions, research topics, and business outcomes.
+
+🎯 Objective
+
+The main objectives of this project are to:
+
+* Analyze research studies related to workplace diversity and inclusion.
+* Understand how research is distributed across different industries and countries/regions.
+* Identify major research focus areas.
+* Analyze the business impact highlighted in different studies.
+* Identify trends in research activity over the years.
+* Build an interactive and easy-to-understand Excel dashboard.
+* Convert raw research data into meaningful business insights.
+
+📂 Dataset
+
+The dataset contains 20 research studies collected from published research and reports.
+
+Dataset contains the following fields:
+
+| Column          | Description                                             |
+| --------------- | ------------------------------------------------------- |
+| Study ID        | Unique identifier for each research study               |
+| Source          | Organization or source of the research                  |
+| Year            | Year in which the research/report was published         |
+| Country/Region  | Geographic region covered by the study                  |
+| Industry        | Industry or sector covered                              |
+| Sample/Scope    | Population, sample, or scope of the research            |
+| Research Focus  | Main topic investigated in the study                    |
+| Key Finding     | Major finding reported by the research                  |
+| Business Impact | Business outcome or impact associated with the findings |
+
+The dataset covers 5 countries/regions and 6 industries.
+
+🛠️ Excel Tools & Features Used
+
+The following Excel features were used to build the project:
+
+* Data Cleaning & Formatting
+* Excel Tables
+* PivotTables
+* Pivot Charts
+* Slicers
+* KPI Cards
+* Bar Charts
+* Column Charts
+* Line Charts
+* Data Filtering
+* Sorting & Categorization
+* Dashboard Design
+* Basic Excel formulas
+* Data Visualization
+
+📊 Analysis Performed
+1. Industry Analysis
+
+Analyzed the distribution of research studies across different industries to identify which sectors have received greater research attention.
+
+2. Country/Region Analysis
+
+Analyzed research coverage across different countries and regions to understand the geographical distribution of the studies.
+
+3. Business Impact Analysis
+
+Examined the business outcomes associated with workplace diversity research, including areas such as:
+
+* Employee retention
+* Productivity
+* Financial performance
+* Innovation
+* Talent attraction
+* Employee engagement
+
+4. Research Focus Analysis
+
+Analyzed the major topics covered by the research studies, including areas related to:
+
+* Gender diversity
+* Workplace inclusion
+* Leadership
+* Employee retention
+* Productivity
+* Innovation
+* Organizational performance
+
+5. Year-wise Analysis
+
+Analyzed the number of research studies published across different years to identify patterns and changes in research activity over time.
+
+💡 Key Insights
+
+The analysis provides several useful insights:
+
+* The dataset covers research across **6 different industries**.
+* Research studies span **5 countries/regions**.
+* A significant portion of the research focuses on workplace diversity, inclusion, leadership, and organizational outcomes.
+* Several studies connect workplace diversity with positive business outcomes such as **employee retention, productivity, innovation, and financial performance**.
+* Research activity is concentrated in recent years, indicating continued interest in workplace diversity and its impact on organizations.
+* The dataset demonstrates that diversity is not only a workforce-related topic but is also connected to broader **business performance and organizational outcomes**.
+
+📈 Dashboard
+
+The final dashboard provides a visual summary of the analysis through:
+
+* Total Studies KPI
+* Countries/Regions KPI
+* Industries KPI
+* Latest Research Year KPI
+* Studies by Industry
+* Studies by Country/Region
+* Business Impact Analysis
+* Research Focus Analysis
+* Year-wise Research Analysis
+* Interactive filters/slicers
+
+Dashboard Preview
+
+C:\Users\BABITA\OneDrive\Pictures\Screenshots\Screenshot 2026-09-09 171333.png
+
+🔄 How the Project Was Created
+
+The project was developed through the following workflow:
+Step 1 – Data Collection
+
+Collected research study information from published reports and research sources.
+
+Step 2 – Data Preparation
+
+Structured the information into a consistent dataset containing study details, source, year, country/region, industry, research focus, key findings, and business impact.
+
+Step 3 – Data Cleaning
+
+Cleaned and formatted the dataset by checking categories, formatting fields, and ensuring consistency across the data.
+
+Step 4 – PivotTable Analysis
+
+Created multiple PivotTables to analyze:
+
+* Industry distribution
+* Country/Region distribution
+* Business impact
+* Research focus
+* Year-wise research activity
+
+Step 5 – Data Visualization
+
+Converted the PivotTable analysis into charts to make the patterns easier to understand.
+
+Step 6 – Dashboard Development
+
+Combined the KPIs, charts, and interactive filters into a single Excel dashboard.
+
+Step 7 – Insight Generation
+
+Analyzed the dashboard results to identify important trends and business insights.
+
+📁 Project Structure
+
+```text
+Business-Intelligence-Research-Dashboard/
+│
+├── Business_Intelligence_Research_Dashboard.xlsx
+├── README.md
+│
+└── screenshots/
+    └── dashboard.png
+```
+
+🚀 Skills Demonstrated
+
+This project demonstrates practical knowledge of:
+
+Microsoft Excel | Data Cleaning | Data Analysis | PivotTables | Pivot Charts | Data Visualization | Dashboard Development | Business Intelligence | Insight Generation
+
+👩‍💻 Project Type
+
+Data Analytics / Business Intelligence Project
+
+Tool: Microsoft Excel
+
+Focus: Data Analysis & Interactive Dashboard
